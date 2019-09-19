@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\GameGUI.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Register.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Character.js" Line="12" Column="34" />
+      <File FileName="Assets\Scripts\DataLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\GameGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TitleScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.js" Line="206" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
